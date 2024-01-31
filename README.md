@@ -6,3 +6,5 @@ You can set different languages, to see the full language list, check https://hu
 
 PyQT5
 >pip install PyQt5
+
+Download from releases or source.
