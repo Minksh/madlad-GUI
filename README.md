@@ -8,3 +8,7 @@ PyQT5
 >pip install PyQt5
 
 Download from releases or source.
+
+**Usage**
+Put the .py file in the same directory of model.safetensors
+Run the file, and make adjustments to the max_token_length if required.
